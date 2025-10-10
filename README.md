@@ -5,4 +5,4 @@
 - 🌐 [Clang-Tidy](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3ARiverDave+is%3Aclosed) –  The most widely used and influential linter for C++. Contributed and helped improve modern diagnostics for better C++ developer tooling.
 - 👻 [IREE](https://github.com/iree-org/iree/pulls?q=is%3Apr+author%3ARiverDave) - In progress (GPU stuff TBD)
 
-Interested in platform specific code generation. Upstreaming Compiler Infrastructure Across LLVM & MLIR Ecosystems
+Interested in platform specific code generation. Upstreaming Compiler Infrastructure Across LLVM & MLIR Ecosystems.
