@@ -6,4 +6,4 @@
 - 🦀 [Naga/WGPU](https://github.com/gfx-rs/wgpu/pull/8432) – Contributing to some minor GPU backend patches on codegen and shader translation infrastructure for Naga.
 - 👻 [IREE](https://github.com/iree-org/iree/pulls?q=is%3Apr+author%3ARiverDave) - In progress (GPU stuff TBD)
 
-Interested in platform specific code generation. Upstreaming Compiler Infrastructure Across LLVM & MLIR Ecosystems.
+Interested in platform specific code generation. Upstreaming Compiler Infrastructure Across LLVM and MLIR Ecosystems.
